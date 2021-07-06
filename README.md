@@ -1,10 +1,7 @@
-### Hi there 👋
+### Hi there!
+## My name is Cj Casinillo
 
-<!--
-**isipcasinillo/isipcasinillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+#About me
 - 🔭 I’m currently working on my Software Engineering degree at UTA and Full stack bootcamp at SMU
 - 🌱 I’m currently learning Jquery, Adobe Illustrator, XD, and c++
 - 👯 I’m looking to collaborate on API's with Genshin Impacy
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: isipcasinillo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am currently watching Criminal Minds at Netflix!
--->
+

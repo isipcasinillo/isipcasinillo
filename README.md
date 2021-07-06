@@ -9,5 +9,5 @@
 - 💬 Ask me about my gym app for iOs!
 - 📫 How to reach me: isipcasinillo@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am currently watching Criminal Minds at Netflix!
+- ⚡ Fun fact: I am currently watching Criminal Minds on Netflix!
 

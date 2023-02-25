@@ -1,11 +1,11 @@
 ### Hi there!
-## My name is Cj Casinillo
+## My name is Cyril Casinillo Isip or CJ
 
 #About me
-- 🔭 I’m currently working on my Software Engineering degree at WGU and Full stack bootcamp at SMU
-- 🌱 I’m currently learning Jquery, Adobe Illustrator, XD, and c++
-- 🤔 I’m looking for help with getting an internship/job with front end development
-- 💬 Ask me about my gym app for iOs!
+- 🔭 My Educational goal is to finish my Software Engineering Degree at WGU
+- 🌱 Working as a Full Stack Developer at Infobase Publishing
+- 🤔 Currently researching on Vue.js, C#, and C++
+- 💬 My big plans are to finish my coding website and start a youtube channel
 - 📫 How to reach me: isipcasinillo@gmail.com
 
 
